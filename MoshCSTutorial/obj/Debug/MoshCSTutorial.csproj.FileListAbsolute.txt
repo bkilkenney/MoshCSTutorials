@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\bin\Debug\MoshCSTutorial.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\bin\Debug\MoshCSTutorial.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\bin\Debug\MoshCSTutorial.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\obj\Debug\MoshCSTutorial.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\obj\Debug\MoshCSTutorial.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MoshCSTutorial\MoshCSTutorial\obj\Debug\MoshCSTutorial.pdb
